@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" type="text/css" href="back.css" />
+         <title>West</title>
+    </head>
+    <body>
+        <div class="dashboard-buttons">
+            <a href="sessions.php" class="sessions">
+                <img src="mobile/images/calendar2.png">
+                <span>Sessions</span>
+            </a>
+        </div>
+    </body>
+</html>

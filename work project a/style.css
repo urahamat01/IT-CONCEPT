@@ -1,0 +1,60 @@
+#mainbody{
+background:0;
+height:100px;
+width:100%;
+}
+.row1{
+	background:green;
+	height:100px;
+	width:20%;
+	float:left;
+}
+.row2{
+	background:#13EC30;
+	height:100px;
+	width:80%;
+	float:left;
+}
+.row3{
+	background:#424242;
+	height:100px;
+	width:100%;
+	float:left;
+}
+.row4{
+	background:yellow;
+	height:300px;
+	width:100%;
+	float:left;
+}
+ul a{
+	color:white;
+	float:left;
+	text-align:center;
+	margin:0px 30px;
+	
+}
+.colam1{
+	background=red;
+	height:300px;
+	width:50%;
+	float:left;
+}
+.colam2{
+	background:#E2DF14
+	height:300px;
+	width:50%;
+	float:left;
+}
+
+.colam3{
+	background:blue;
+	height:300px;
+	width:30%;
+	float:left;
+}
+.bb{
+	background:white;
+}
+
+
