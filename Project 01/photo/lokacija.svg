@@ -1,0 +1,17 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fcfcfc" id="canvas_background" height="102" width="102" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_10" d="m51.957738,26.283403c19.996316,-59.655691 98.342536,0 0,76.700174c-98.342536,-76.700174 -19.996316,-136.355864 0,-76.700174z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#fcfcfc" fill="#4d4d49"/>
+  <text stroke="#ffffff" transform="matrix(0.9320414066314697,0,0,0.8928571343421936,1.4611097574234009,2.142857313156128) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="25" id="svg_2" y="46.36" x="24.718741" stroke-width="0" fill="#ffcb05">Ruby</text>
+  <rect stroke="#ffffff" id="svg_3" height="2" width="63.000012" y="51" x="18.499989" stroke-width="1.5" fill="#ffffff"/>
+  <text stroke="#ffffff" transform="matrix(0.8636363744735718,0,0,1,11.318180918693542,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_4" y="71" x="11.210526" stroke-opacity="null" stroke-width="0" fill="#fcfcfc">Softwares</text>
+ </g>
+</svg>

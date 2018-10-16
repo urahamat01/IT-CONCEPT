@@ -1,0 +1,220 @@
+.m{
+	background:#FFFFFF;
+	width:100%;
+	height:100px;
+	
+}
+.w{
+	background:#FFFFFF;
+	width:20%;
+	height:100px;
+	float:left;
+	margin-left;15px;
+	}
+.b{
+	background:#FFFFFF;
+	width:80%;
+	height:100px;
+	float:right;
+	display:right;
+		
+	}
+	.b i{
+	float:right;
+	display:right;
+	margin:10px;
+		
+	}
+	fa fa-bars{
+		display:right;
+		float:right;
+	}
+
+#main{
+	background:#FFCB05;
+	width:100%;
+	height:auto;
+	
+	
+	
+}
+#main1{
+	background:#FFCB05;
+	width:100%;
+	height:auto;
+	
+	
+	
+}
+#main3{
+	background:#FFFFFF;
+	width:100%;
+	height:auto;
+	
+}
+.col1{
+	background:#FFCB05;
+	width:50%;
+	height:60px;
+	float:left;
+	
+	
+}
+.col2{
+	background:#FFCB05;
+	width:50%;
+	height:60px;
+	float:left;
+	
+	
+}
+.col3{
+	background:#FFCB05;
+	width:50%;
+	height:60px;
+	float:left;
+	
+	
+}
+.col4{
+	background:#FFCB05;
+	width:50%;
+	height:60px;
+	float:left;
+	}
+	.col5{
+	background:#FFFFFF;
+	width:40%;
+	height:90px;
+	float:left;}
+	.col6{
+	background:#FFFFFF;
+	width:17%;
+	height:90px;
+	float:left;
+	}
+	.col7{
+	background:#FFFFFF;
+	width:43%;
+	height:90px;
+	float:left;
+	}
+.g{
+	position:center;
+	margin-left:150px;
+	margin-top:10px
+}
+.g:hover{
+	background-color:black;
+	display:circle;
+	
+}
+.h{
+	position:center;
+	margin-left:120px;
+	
+}
+.h:hover{
+	background-color:black;
+	display:circle;
+	border-style:circle;
+	
+}
+a{
+	background-color:black;
+	color:#FFCB05;
+	margin:3px;
+	padding:2px;
+	border-radius:8px;
+	
+
+}
+a:hover{
+	background-color:#FFFFFF;
+	color:#FFCB05;
+	margin:3px;
+	padding:2px;
+	border-radius:6px;
+	
+
+}
+*{
+margin:0px;
+padding:opx
+}
+ul ul{
+position:absolute;
+display:none;
+
+}
+
+ul li a:hover{
+background-color:#FFFFFF;
+border-radius:4px;
+}
+
+ul li{
+background:0;
+height:30px;
+width:120px;
+line-height:35px;
+float:left;
+position:relative;
+border-radius:6px;
+text-align:center;
+
+
+
+
+}
+ul{
+background:none;
+
+list-style:none;
+}
+ul li:hover> ul{
+display:block;
+border-radius:6px;
+}
+#g{
+	text-align:center;
+	font-size:25px;
+	text-align:top;
+}
+#outerbox{
+	width:1075px;
+	overflow:hidden;
+	
+	
+}
+#sliderbox{
+	position:relative;
+	width:2150;
+	animation-name:rony;
+	animation-duration:5s;
+	animation-iteration-count:infinite;
+	
+}
+#sliderbox img{
+	float:left;
+	
+}
+@keyframes rony{
+	0%{
+		left:0px;
+	}
+	
+	60%{
+		left:-1075px;
+	}
+	100%{
+		left:-2150px;
+	}
+	
+	}
+@media (max-width:600px){}
+
+
+	
+
+
